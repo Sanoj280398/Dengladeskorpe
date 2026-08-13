@@ -1,0 +1,216 @@
+﻿
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\db\dbConnect.js
+  16:14  error  'global' is not defined  no-undef
+  19:12  error  'global' is not defined  no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\db\mcd\misc\mStorage.js
+  11:9  warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  22:9  warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  33:9  warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  44:9  warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  55:9  warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\db\mcd\seed\seed.mjs
+  12:9  warning  'user' is assigned a value but never used. Allowed unused vars must match /^_/u   no-unused-vars
+  21:9  warning  'guest' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\handlers\auth.handler.js
+  46:12  warning  'error' is defined but never used  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\handlers\file.handler.js
+  5:41  error  'URL' is not defined  no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\routes\auth\token.js
+  15:23  error    'getNewUID' is not defined                                                      no-undef
+  15:43  error    'mime' is not defined                                                           no-undef
+  16:9   warning  'ext' is assigned a value but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  16:15  error    'mime' is not defined                                                           no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\routes\dishes\dish.route.js
+  42:14  warning  'error' is defined but never used  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\routes\mcd\poc\poc.route.js
+  4:13  warning  'fs' is defined but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  6:41  error    'URL' is not defined                                                  no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\routes\mcd\preview\preview.route.js
+  4:13  warning  'fs' is defined but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  6:41  error    'URL' is not defined                                                  no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\routes\mcd\www\index.route.js
+  2:13  warning  'path' is defined but never used. Allowed unused vars must match /^_/u  no-unused-vars
+  4:13  warning  'fs' is defined but never used. Allowed unused vars must match /^_/u    no-unused-vars
+  7:41  error    'URL' is not defined                                                    no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\lib\server.js
+   29:41  error    'URL' is not defined               no-undef
+  137:18  error    'URL' is not defined               no-undef
+  138:14  warning  'error' is defined but never used  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\scripts\syncAssets.js
+  29:12  warning  'e' is defined but never used  no-unused-vars
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\sites\www\dist\assets\index-D6eSnubI.js
+   1:21     error  'document' is not defined                                                  no-undef
+   1:128    error  'document' is not defined                                                  no-undef
+   1:192    error  'MutationObserver' is not defined                                          no-undef
+   1:342    error  'document' is not defined                                                  no-undef
+   1:690    error  'fetch' is not defined                                                     no-undef
+   9:1588   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9:4646   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  17:377    error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  25:599    error  'performance' is not defined                                               no-undef
+  25:634    error  'performance' is not defined                                               no-undef
+  25:834    error  'setTimeout' is not defined                                                no-undef
+  25:884    error  'clearTimeout' is not defined                                              no-undef
+  25:928    error  'setImmediate' is not defined                                              no-undef
+  25:968    error  'navigator' is not defined                                                 no-undef
+  25:999    error  'navigator' is not defined                                                 no-undef
+  25:1045   error  'navigator' is not defined                                                 no-undef
+  25:1086   error  'navigator' is not defined                                                 no-undef
+  25:2076   error  'MessageChannel' is not defined                                            no-undef
+  25:2613   error  'console' is not defined                                                   no-undef
+  33:496    error  'window' is not defined                                                    no-undef
+  33:524    error  'window' is not defined                                                    no-undef
+  33:910    error  Unexpected combined character in character class                           no-misleading-character-class
+  33:3024   error  Unnecessary escape character: \-                                           no-useless-escape
+  33:4913   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:202    error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:1216   error  Empty block statement                                                      no-empty
+  37:2389   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:3070   error  'document' is not defined                                                  no-undef
+  37:3868   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:3909   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:4076   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:4103   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:4694   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:6030   error  'MSApp' is not defined                                                     no-undef
+  37:6078   error  'MSApp' is not defined                                                     no-undef
+  37:6253   error  'document' is not defined                                                  no-undef
+  37:7458   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:7551   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:8493   error  'window' is not defined                                                    no-undef
+  37:8633   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:9654   error  Expected to return a value in method 'get'                                 getter-return
+  37:9678   error  'window' is not defined                                                    no-undef
+  37:9716   error  'window' is not defined                                                    no-undef
+  37:9787   error  'r' is defined but never used                                              no-unused-vars
+  37:9789   error  'l' is defined but never used                                              no-unused-vars
+  37:9791   error  'u' is defined but never used                                              no-unused-vars
+  37:9793   error  'i' is defined but never used                                              no-unused-vars
+  37:9795   error  'o' is defined but never used                                              no-unused-vars
+  37:9797   error  's' is defined but never used                                              no-unused-vars
+  37:9970   error  'e' is defined but never used                                              no-unused-vars
+  37:9972   error  't' is defined but never used                                              no-unused-vars
+  37:9974   error  'n' is defined but never used                                              no-unused-vars
+  37:9976   error  'r' is defined but never used                                              no-unused-vars
+  37:9978   error  'l' is defined but never used                                              no-unused-vars
+  37:9980   error  'u' is defined but never used                                              no-unused-vars
+  37:9982   error  'i' is defined but never used                                              no-unused-vars
+  37:9984   error  'o' is defined but never used                                              no-unused-vars
+  37:9986   error  's' is defined but never used                                              no-unused-vars
+  37:10038  error  'e' is defined but never used                                              no-unused-vars
+  37:10040  error  't' is defined but never used                                              no-unused-vars
+  37:10042  error  'n' is defined but never used                                              no-unused-vars
+  37:10044  error  'r' is defined but never used                                              no-unused-vars
+  37:10046  error  'l' is defined but never used                                              no-unused-vars
+  37:10048  error  'u' is defined but never used                                              no-unused-vars
+  37:10050  error  'i' is defined but never used                                              no-unused-vars
+  37:10052  error  'o' is defined but never used                                              no-unused-vars
+  37:10054  error  's' is defined but never used                                              no-unused-vars
+  37:11886  error  Empty block statement                                                      no-empty
+  37:19766  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:20108  error  Invalid typeof comparison value                                            valid-typeof
+  37:20282  error  Invalid typeof comparison value                                            valid-typeof
+  37:21312  error  'window' is not defined                                                    no-undef
+  37:22147  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:23392  error  'window' is not defined                                                    no-undef
+  37:23428  error  'document' is not defined                                                  no-undef
+  37:23442  error  'document' is not defined                                                  no-undef
+  37:23490  error  'window' is not defined                                                    no-undef
+  37:24960  error  'document' is not defined                                                  no-undef
+  37:24984  error  'document' is not defined                                                  no-undef
+  37:25110  error  'document' is not defined                                                  no-undef
+  37:25135  error  'document' is not defined                                                  no-undef
+  37:26487  error  'window' is not defined                                                    no-undef
+  37:27185  error  'document' is not defined                                                  no-undef
+  37:27211  error  'window' is not defined                                                    no-undef
+  37:27687  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:27924  error  'document' is not defined                                                  no-undef
+  37:27938  error  'document' is not defined                                                  no-undef
+  37:28228  error  'window' is not defined                                                    no-undef
+  37:28831  error  'document' is not defined                                                  no-undef
+  37:28886  error  'window' is not defined                                                    no-undef
+  37:29023  error  'window' is not defined                                                    no-undef
+  37:29153  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:33253  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:33440  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:34557  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:34606  error  'window' is not defined                                                    no-undef
+  37:35353  error  'window' is not defined                                                    no-undef
+  37:35750  error  'window' is not defined                                                    no-undef
+  37:36002  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:37432  error  Unexpected control character(s) in regular expression: \x00                no-control-regex
+  38:385    error  'setTimeout' is not defined                                                no-undef
+  38:438    error  'clearTimeout' is not defined                                              no-undef
+  38:540    error  'queueMicrotask' is not defined                                            no-undef
+  38:642    error  'setTimeout' is not defined                                                no-undef
+  38:1506   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:1606   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:14646  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  38:15102  error  Unexpected constant condition                                              no-constant-condition
+  38:15693  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:22199  error  Empty block statement                                                      no-empty
+  38:22208  error  Empty block statement                                                      no-empty
+  38:25571  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:26434  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:153    error  'console' is not defined                                                   no-undef
+  40:185    error  'setTimeout' is not defined                                                no-undef
+  40:3962   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:5084   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:12845  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:12866  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:12936  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13118  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13220  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13300  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13324  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13376  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13731  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:15913  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:16192  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:16638  error  Unnecessary escape character: \/                                           no-useless-escape
+  40:17508  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:17817  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:22507  error  'window' is not defined                                                    no-undef
+  40:25810  error  Empty block statement                                                      no-empty
+  40:25845  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  40:29896  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:30873  error  't' is defined but never used                                              no-unused-vars
+  40:30875  error  'n' is defined but never used                                              no-unused-vars
+  40:30902  error  't' is defined but never used                                              no-unused-vars
+  40:30904  error  'n' is defined but never used                                              no-unused-vars
+  40:33556  error  'window' is not defined                                                    no-undef
+  40:34567  error  Unexpected constant condition                                              no-constant-condition
+  40:39042  error  Unexpected constant condition                                              no-constant-condition
+  40:39323  error  Unexpected constant condition                                              no-constant-condition
+  40:42291  error  Empty block statement                                                      no-empty
+  40:51619  error  'reportError' is not defined                                               no-undef
+  40:51643  error  'console' is not defined                                                   no-undef
+  40:52699  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:54098  error  'ys' is a function                                                         no-func-assign
+  40:54104  error  'gs' is a function                                                         no-func-assign
+  40:55022  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:55121  error  Empty block statement                                                      no-empty
+  40:57154  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:57211  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:57264  error  'console' is not defined                                                   no-undef
+  40:59871  error  'document' is not defined                                                  no-undef
+
+C:\Users\Elev\Downloads\mcd_web_dengladeskorpe_server\vite.config.js
+   6:22  error  '__dirname' is not defined  no-undef
+   9:26  error  '__dirname' is not defined  no-undef
+  12:27  error  '__dirname' is not defined  no-undef
+
+Ô£û 185 problems (169 errors, 16 warnings)
+
