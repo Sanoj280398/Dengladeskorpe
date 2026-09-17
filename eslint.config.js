@@ -22,6 +22,8 @@ export default [
         globalThis: "readonly",
         URL: "readonly",
         global: "readonly",
+        fetch: "readonly",
+        Response: "readonly",
       },
     },
     plugins: {
