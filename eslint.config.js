@@ -24,6 +24,8 @@ export default [
         global: "readonly",
         fetch: "readonly",
         Response: "readonly",
+        FormData: "readonly",
+        localStorage: "readonly",
       },
     },
     plugins: {
